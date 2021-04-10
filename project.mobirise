@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "scrutinize.com",
+    "name": "TutorRoom.com",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -46,7 +46,15 @@
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "favicon": false,
+    "mbrsiteDomain": "u15ervvrd5",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
